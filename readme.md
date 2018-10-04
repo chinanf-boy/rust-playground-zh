@@ -13,7 +13,7 @@
 
 ---
 
-## 校对 ✅
+## 校对 🀄️
 
 <!-- doc-templite START generated -->
 <!-- time = '2018-09-23' -->
@@ -27,6 +27,8 @@
 [commit]: https://github.com/integer32llc/rust-playground/tree/c54773e3b2112bd9d92297fa5af73ee80f58618b
 
 <!-- doc-templite END generated -->
+
+- [ ] [页面翻译]
 
 ### 贡献
 
