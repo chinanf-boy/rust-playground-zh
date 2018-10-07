@@ -28,7 +28,7 @@
 
 <!-- doc-templite END generated -->
 
-- [ ] [页面翻译]
+- [ ] [网络页面的翻译]
 
 ### 贡献
 
